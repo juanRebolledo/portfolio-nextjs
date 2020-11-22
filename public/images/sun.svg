@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.957" height="17.957" viewBox="0 0 17.957 17.957">
+  <g id="sun" transform="translate(485.5 1239.5)">
+    <g id="sunIcon" transform="translate(-480.113 -1234.113)">
+      <circle id="Elipse_31" data-name="Elipse 31" cx="3.5" cy="3.5" r="3.5" transform="translate(0.113 0.113)" fill="#ffa238"/>
+    </g>
+    <line id="Línea_1" data-name="Línea 1" y2="3.591" transform="translate(-476.522 -1239.5)" fill="none" stroke="#ffa238" stroke-width="0.5"/>
+    <line id="Línea_8" data-name="Línea 8" y2="3.591" transform="translate(-469.955 -1236.645) rotate(47)" fill="none" stroke="#ffa238" stroke-width="0.5"/>
+    <line id="Línea_4" data-name="Línea 4" y2="3.591" transform="translate(-476.522 -1225.135)" fill="none" stroke="#ffa238" stroke-width="0.5"/>
+    <line id="Línea_7" data-name="Línea 7" y2="3.591" transform="translate(-480.461 -1226.848) rotate(47)" fill="none" stroke="#ffa238" stroke-width="0.5"/>
+    <line id="Línea_2" data-name="Línea 2" y2="3.591" transform="translate(-467.543 -1230.521) rotate(90)" fill="none" stroke="#ffa238" stroke-width="0.5"/>
+    <line id="Línea_6" data-name="Línea 6" y2="3.591" transform="translate(-470.398 -1223.955) rotate(137)" fill="none" stroke="#ffa238" stroke-width="0.5"/>
+    <line id="Línea_3" data-name="Línea 3" y2="3.591" transform="translate(-481.909 -1230.521) rotate(90)" fill="none" stroke="#ffa238" stroke-width="0.5"/>
+    <line id="Línea_5" data-name="Línea 5" y2="3.591" transform="translate(-480.196 -1234.461) rotate(137)" fill="none" stroke="#ffa238" stroke-width="0.5"/>
+  </g>
+</svg>
