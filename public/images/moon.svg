@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="moon" transform="translate(0.005 -0.37)">
+    <circle id="Elipse_13" data-name="Elipse 13" cx="9" cy="9" r="9" transform="translate(-0.005 0.37)" fill="#3f3d56"/>
+    <g id="moonicon" transform="translate(3.445 3.49)">
+      <circle id="Elipse_14" data-name="Elipse 14" cx="5" cy="5" r="5" transform="translate(-0.449 1.88)" fill="#fff"/>
+      <circle id="Elipse_15" data-name="Elipse 15" cx="3.445" cy="3.445" r="3.445" transform="matrix(0.899, 0.438, -0.438, 0.899, 4.407, 0)" fill="#3f3d56"/>
+    </g>
+    <g id="stars" transform="translate(1.148 2.296)">
+      <circle id="Elipse_16" data-name="Elipse 16" cx="0.5" cy="0.5" r="0.5" transform="translate(5.847 0.073)" fill="#fff"/>
+      <circle id="Elipse_27" data-name="Elipse 27" cx="0.5" cy="0.5" r="0.5" transform="translate(12.847 2.073)" fill="#fff"/>
+      <circle id="Elipse_28" data-name="Elipse 28" cx="0.5" cy="0.5" r="0.5" transform="translate(8.847 14.073)" fill="#fff"/>
+      <circle id="Elipse_19" data-name="Elipse 19" cx="0.5" cy="0.5" r="0.5" transform="translate(13.847 9.073)" fill="#fff"/>
+      <circle id="Elipse_17" data-name="Elipse 17" cx="0.287" cy="0.287" r="0.287" transform="translate(10.334)" fill="#fff"/>
+      <circle id="Elipse_18" data-name="Elipse 18" cx="0.287" cy="0.287" r="0.287" transform="translate(14.927 4.593)" fill="#fff"/>
+      <circle id="Elipse_20" data-name="Elipse 20" cx="0.287" cy="0.287" r="0.287" transform="translate(11.482 3.445)" fill="#fff"/>
+      <circle id="Elipse_21" data-name="Elipse 21" cx="0.287" cy="0.287" r="0.287" transform="translate(12.631 5.741)" fill="#fff"/>
+      <circle id="Elipse_22" data-name="Elipse 22" cx="0.287" cy="0.287" r="0.287" transform="translate(8.038 1.148)" fill="#fff"/>
+      <circle id="Elipse_23" data-name="Elipse 23" cx="0.287" cy="0.287" r="0.287" transform="translate(1.148 11.482)" fill="#fff"/>
+      <circle id="Elipse_29" data-name="Elipse 29" cx="0.287" cy="0.287" r="0.287" transform="translate(4.593 14.927)" fill="#fff"/>
+      <circle id="Elipse_30" data-name="Elipse 30" cx="0.287" cy="0.287" r="0.287" transform="translate(5.741 13.779)" fill="#fff"/>
+      <circle id="Elipse_24" data-name="Elipse 24" cx="0.287" cy="0.287" r="0.287" transform="translate(1.148 9.186)" fill="#fff"/>
+      <circle id="Elipse_25" data-name="Elipse 25" cx="0.287" cy="0.287" r="0.287" transform="translate(0 3.445)" fill="#fff"/>
+      <circle id="Elipse_26" data-name="Elipse 26" cx="0.287" cy="0.287" r="0.287" transform="translate(3.445 2.296)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -12,7 +12,7 @@ const ToggleButton = ({handlerDarkMode}) => {
     <>
       <div onClick={handlerChecked}>
         <img className="sun" src="/images/sun.svg" />
-        <img className="moon" src="/images/moon.png" />
+        <img className="moon" src="/images/moon.svg" />
         <span /></div>
       <style jsx>{`
         div {
