@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 const ImageContainer = styled.div`
-  height: 100%;
+  height: 225px;
   width: 250px;
 
   img {
@@ -12,8 +12,8 @@ const ImageContainer = styled.div`
   }
 
   @media(max-width: 576px) {
-    height: 45%;
-    width: 49%;
+    height: 49%;
+    width: 55%;
   }
 `
 
