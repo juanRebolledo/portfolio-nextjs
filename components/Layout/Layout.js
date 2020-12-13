@@ -1,10 +1,10 @@
 import Main from 'styles/styled/Main/Main'
-import Header from 'components/Header/Header'
+import ToggleButton from 'components/ToggleButton/ToggleButton'
 
 const Layout = ({ children, handlerDarkMode }) => {
   return (
-    <>    
-      <Header handlerDarkMode={handlerDarkMode} />
+    <>
+      <ToggleButton handlerDarkMode={handlerDarkMode} />
       <Main>
         {children}
       </Main>
