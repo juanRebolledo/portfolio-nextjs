@@ -6,6 +6,7 @@ const Main = styled.main`
   display: flex;
   height: calc(100% - 70px);
   flex-wrap: wrap;
+  transition: background ease-in 0.3s;
   width: 100%;
 `
 

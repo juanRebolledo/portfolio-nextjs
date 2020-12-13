@@ -12,11 +12,12 @@ import Subtitle from 'styles/styled/Subtitle/Subtitle'
 import TitleName from 'styles/styled/TitleName/TitleName'
 import MyImages from 'styles/styled/HomePage/MyImages'
 import ImageContainer from 'styles/styled/HomePage/ImageContainer'
+import ToggleButton from 'components/ToggleButton/ToggleButton'
 
 const HomePage = ({ darkMode }) => {
   return (
     <>
-      <PresentationContainer>
+      {/* <PresentationContainer>
         <InformationContainer>
           <ContainerMyName>
             <Logo darkMode={darkMode} />
@@ -50,7 +51,7 @@ const HomePage = ({ darkMode }) => {
             </ImageContainer>
           </MyImages>
         </Iam>
-      </AboutMe>
+      </AboutMe> */}
     </>
   )
 }

@@ -25,7 +25,10 @@ const ToggleButton = ({handlerDarkMode}) => {
           display: flex;
           height: 32px;
           justify-content: space-around;
+          left: 50%;
           position: absolute;
+          top: 50%;
+          transition: background ease-in 0.4s;
           width: 80px;
           -webkit-box-shadow: 3px 0px 10px 0px rgba(0,0,0,0.16);
           -moz-box-shadow: 3px 0px 10px 0px rgba(0,0,0,0.16);
@@ -42,7 +45,7 @@ const ToggleButton = ({handlerDarkMode}) => {
           width: 26px;
           -webkit-box-shadow: 3px 0px 10px 0px rgba(0,0,0,0.16);
           -moz-box-shadow: 3px 0px 10px 0px rgba(0,0,0,0.16);
-          transform: translateX(${checked ? "130%" : "0%"})
+          transform: translateX(${checked ? "150%" : "0%"})
         }
 
         @media(max-width: 426px) {
