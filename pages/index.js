@@ -7,7 +7,7 @@ const Home = ({darkMode, handlerDarkMode}) => (
   <ContainerApp>
     <Head>
       <title>Juan Rebolledo</title>
-      <link rel="shortcut icon" href="/favicon.ico" />
+      <link rel="shortcut icon" href="/favicon.jpg" />
     </Head>
     <Layout handlerDarkMode={handlerDarkMode}>
       <HomePage darkMode={darkMode} />
