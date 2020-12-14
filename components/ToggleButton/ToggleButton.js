@@ -19,14 +19,13 @@ const ToggleButton = ({handlerDarkMode}) => {
           align-items: center;
           background: ${checked ? "#272822" : "#F2E9E4"};
           border-radius: 22px;
-          ${checked && "border: 1px solid #F2E9E4;"}
+          ${checked ? "border: 1px solid #F2E9E4;" : ''}
           box-shadow: 3px 0px 10px 0px rgba(0,0,0,0.16);
           cursor: pointer;
           display: flex;
           height: 32px;
           justify-content: space-around;
-          right: 40px;
-          position: relative;
+          position: absolute;
           width: 80px;
           -webkit-box-shadow: 3px 0px 10px 0px rgba(0,0,0,0.16);
           -moz-box-shadow: 3px 0px 10px 0px rgba(0,0,0,0.16);

@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import 'styles/index.css'
+import 'styles/Code/code.css'
 import { ThemeProvider } from 'styled-components'
 import { darkTheme, lightTheme } from 'styles/Theme/theme'
 
