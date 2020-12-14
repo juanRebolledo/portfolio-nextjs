@@ -9,6 +9,7 @@ const ContainerMyName = styled.div`
   
   @media(max-width: 576px) {
     flex-direction: column;
+    height: 35%;
   }
 `
 

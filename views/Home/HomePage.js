@@ -38,7 +38,7 @@ const HomePage = ({ darkMode }) => {
           <Logo darkMode={darkMode} width="75" />
           <Paragraph>
             I am currently an Telematics engineering student,
-            I'm 21 years old. I love the code and make user interfaces. My favorite lenguaje is
+            I'm 21 years old. I love the code and make user interfaces. My favorite lenguage is
             JavaScript and use React to build interfaces.
           </Paragraph>
           <MyImages>

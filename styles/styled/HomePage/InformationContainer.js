@@ -5,6 +5,10 @@ const InformationContainer = styled.div`
   width: 80%;
   
   @media(max-width: 576px) {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
     height: 100%;
     width: 90%;
   }

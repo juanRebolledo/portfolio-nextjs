@@ -9,7 +9,8 @@ const ContainerImFrontend = styled.div`
 
   @media(max-width: 400px) {
     flex-direction: column;
-    height: 50%;
+    height: 35%;
+    margin: 0;
   }
 `
 
