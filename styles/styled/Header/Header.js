@@ -1,12 +1,9 @@
 import styled from 'styled-components'
 
 const Header = styled.header`
-  align-items: center;
-  background: ${({theme}) => theme.bg.primary};
-  display: flex;
-  height: 70px;
-  position: sticky;
-  top: 0;
+  position: absolute;
+  top: 10px;
+  left: 10px;
 `
 
 export default Header

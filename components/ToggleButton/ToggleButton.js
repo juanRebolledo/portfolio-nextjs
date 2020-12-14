@@ -26,9 +26,11 @@ const ToggleButton = ({handlerDarkMode}) => {
           height: 32px;
           justify-content: space-around;
           position: absolute;
+          right: 30px;
+          top: 10px;
+          transition: background ease-in 0.4s;
           width: 80px;
-          -webkit-box-shadow: 3px 0px 10px 0px rgba(0,0,0,0.16);
-          -moz-box-shadow: 3px 0px 10px 0px rgba(0,0,0,0.16);
+          z-index: 9;
         }
         div span {
           background: ${checked ? "#F2E9E4" : "#fff"};
@@ -40,15 +42,7 @@ const ToggleButton = ({handlerDarkMode}) => {
           transition: all ease-in 0.3s;
           position: absolute;
           width: 26px;
-          -webkit-box-shadow: 3px 0px 10px 0px rgba(0,0,0,0.16);
-          -moz-box-shadow: 3px 0px 10px 0px rgba(0,0,0,0.16);
-          transform: translateX(${checked ? "130%" : "0%"})
-        }
-
-        @media(max-width: 426px) {
-          div {
-            left: 25px;
-          }
+          transform: translateX(${checked ? "150%" : "0%"})
         }
       `}</style>
     </>

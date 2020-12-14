@@ -4,8 +4,9 @@ const Main = styled.main`
   align-items: center;
   background: ${({theme}) => theme.bg.primary};
   display: flex;
-  height: calc(100% - 70px);
+  height: 100%;
   flex-wrap: wrap;
+  transition: all ease-in 0.3s;
   width: 100%;
 `
 
