@@ -12,15 +12,14 @@ import Subtitle from 'styles/styled/Subtitle/Subtitle'
 import TitleName from 'styles/styled/TitleName/TitleName'
 import MyImages from 'styles/styled/HomePage/MyImages'
 import ImageContainer from 'styles/styled/HomePage/ImageContainer'
-import ToggleButton from 'components/ToggleButton/ToggleButton'
 
 const HomePage = ({ darkMode }) => {
   return (
     <>
-      {/* <PresentationContainer>
+      <PresentationContainer>
         <InformationContainer>
           <ContainerMyName>
-            <Logo darkMode={darkMode} />
+            <Logo darkMode={darkMode} width="100px" />
             <TitleName>Hi! I'm Juan </TitleName>
           </ContainerMyName>
           <ContainerImFrontend>
@@ -38,7 +37,7 @@ const HomePage = ({ darkMode }) => {
         <Iam>
           <Logo darkMode={darkMode} width="75" />
           <Paragraph>
-            Hi! My name is José Juan Rebolledo Kamey. I am currently an Telematics engineering student,
+            I am currently an Telematics engineering student,
             I'm 21 years old. I love the code and make user interfaces. My favorite lenguaje is
             JavaScript and use React to build interfaces.
           </Paragraph>
@@ -51,7 +50,7 @@ const HomePage = ({ darkMode }) => {
             </ImageContainer>
           </MyImages>
         </Iam>
-      </AboutMe> */}
+      </AboutMe>
     </>
   )
 }

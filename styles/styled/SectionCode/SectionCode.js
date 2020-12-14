@@ -2,7 +2,6 @@ import styled from 'styled-components'
 
 const SectionCode = styled.section`
   align-items: center;
-  background: ${({theme}) => theme.bg.primary};
   display: flex;
   height: 100%;
   justify-content: center;

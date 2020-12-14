@@ -6,6 +6,7 @@ const AboutMe = styled.section`
   display: flex;
   height: calc(100vh - 70px);
   justify-content: center;
+  transition: all ease-in 0.3s;
   width: 100%;
 `
 
