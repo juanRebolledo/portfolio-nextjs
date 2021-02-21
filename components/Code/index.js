@@ -8,26 +8,26 @@ const Code = () => (
   <div className="container-codes">
     <ContainerCode />
     <ContainerCode front>
-      <Line line="1" sz="1">
+      <Line key="1" line="1" sz="1">
         <Item text="const" type="var" />
         <Item text="juanRebolledo" type="var_name" />
         <Item text="=" type="equal" />
         <Item mr="0" text="{" type="bracket" />
       </Line>
-      <Line line="2" sz="2">
+      <Line key="2" line="2" sz="2">
         <Item>age<Item text=":" type="bracket" /></Item>
         <Item type="truly">21<Item text="," type="bracket" /></Item>
       </Line>
-      <Line line="3" sz="2">
+      <Line key="3" line="3" sz="2">
         <ArrItem name="code" values={["Javascript", "PHP"]} />
       </Line>
-      <Line line="4" sz="2">
+      <Line key="4" line="4" sz="2">
         <ArrItem name="technologies" values={['React JS', 'Next JS']} />
       </Line>
-      <Line line="5" sz="2">
+      <Line key="5" line="5" sz="2">
         <ArrItem name="tools" values={['Firebase']} />
       </Line>
-      <Line line="6" sz="1">
+      <Line key="6" line="6" sz="1">
         <Item text="}" type="bracket" />
       </Line>
     </ContainerCode>

@@ -6,8 +6,8 @@ const ArrItem = ({ name, values }) => (
     <Item>{name}<Item text=":" type="bracket" /></Item>
     <Item>
       [{" "}<Item type="bracket">
-        {values.map(value => (
-          <>'<Item mr="0px" type="array_value">{value}<Item text="'," type="bracket" /></Item></>
+        {values.map((value, index) => (
+          <>'<Item key={index} mr="0px" type="array_value">{value}<Item text="'," type="bracket" /></Item></>
         ))}
       </Item>]
       <Item mr="0" text="," type="bracket" />
