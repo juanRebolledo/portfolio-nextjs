@@ -6,7 +6,7 @@ import 'styles/index.css'
 import 'styles/Code/code.css'
 
 function MyApp({ Component, pageProps }) {
-  const darkMode = useDarkMode(false)
+  const darkMode = useDarkMode(true)
   const [mounted, setMounted] = useState(false)
 
   useEffect(() => {
