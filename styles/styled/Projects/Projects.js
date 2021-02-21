@@ -5,7 +5,7 @@ const Projects = styled.section`
   display: flex;
   flex-direction: column;
   padding: 40px 25px;
-  width: 100%;
+  width: calc(100% - 50px);
 `
 
 export default Projects
